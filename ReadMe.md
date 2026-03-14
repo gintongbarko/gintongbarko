@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gold%20Ship&reversal=false&desc=BSIT&animation=fadeIn&textBg=false)
 
-![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFxdGgyZWpoNDNnanFsdDc1NWR6bjdweWg5bDQyeGNleGF1YTB6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif)
+![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtzd2J2MHZlZndicDVnbHI1ajU5anZjczE4NmgzYm96b3dwZzFwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ClNpFnbZdGolUQGqcD/giphy.gif)
 
 # 💫 About Me:
 🔭 I’m currently working on web projects <br>
@@ -14,7 +14,7 @@
 
 ### 🪪 DevCard
 
-Coming Soon
+<a href="https://app.daily.dev/gintongbarko"><img src="https://api.daily.dev/devcards/v2/JpnChlqMwDVL8FftqDVSf.png?type=wide&r=w60" width="652" alt="Gold Ship's Dev Card"/></a>
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/950244048885645352)
@@ -57,7 +57,7 @@ Coming Soon
 [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
 
-### ⛈️ Database
+### 🗄️ Database
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
 
