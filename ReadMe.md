@@ -136,8 +136,7 @@
 
 # 🛡️ Badges:
 
-Coming Soon
-<!--![Cloud Foundations Badge](https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob) ![Cloud Architecting Badge](https://images.credly.com/size/340x340/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob)-->
+![Cloud Foundations Badge](https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob) ![Generative AI Badge](https://images.credly.com/size/340x340/images/7fa09e71-4149-4d59-9066-14fc8a3e0f39/blob) ![Cloud Architecting Badge](https://images.credly.com/size/340x340/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob) ![Artificial Intelligence Fundamentals](https://images.credly.com/size/340x340/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gintongbarko&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
