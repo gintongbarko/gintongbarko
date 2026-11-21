@@ -1,16 +1,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gold%20Ship&reversal=false&desc=BSIT&animation=fadeIn&textBg=false)
 
-![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtzd2J2MHZlZndicDVnbHI1ajU5anZjczE4NmgzYm96b3dwZzFwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ClNpFnbZdGolUQGqcD/giphy.gif)
-
 # 💫 About Me:
 🔭 I’m currently working on web projects <br>
 👯 I’m looking to collaborate on System Integration <br>
-🤝 I’m looking for help with Mobile development <br>
-🍰 I’m powered by Uma <br>
+🤝 I’m looking for help with Capstone Development <br>
+🍰 I’m powered by motivation <br>
 💖 Random love: Horses with cats <br>
 🌱 I’m currently learning IT Systems <br>
 💬 Ask me about Code Review <br>
-⚡ Fun fact: Anak ni Mommy Oni at Daddy Rob, Kapatid ni Mambo <br>
+⚡ Fun fact: Doing cosplay sometimes <br>
 
 ### 🪪 DevCard
 
@@ -136,7 +134,9 @@
 
 # 🛡️ Badges:
 
-![Cloud Foundations Badge](https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob) ![Generative AI Badge](https://images.credly.com/size/340x340/images/7fa09e71-4149-4d59-9066-14fc8a3e0f39/blob) ![Cloud Architecting Badge](https://images.credly.com/size/340x340/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob) ![Artificial Intelligence Fundamentals](https://images.credly.com/size/340x340/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)
+![Cloud Foundations Badge](https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob) 
+![Generative AI Badge](https://images.credly.com/size/340x340/images/7fa09e71-4149-4d59-9066-14fc8a3e0f39/blob) 
+![Cloud Architecting Badge](https://images.credly.com/size/340x340/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gintongbarko&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
